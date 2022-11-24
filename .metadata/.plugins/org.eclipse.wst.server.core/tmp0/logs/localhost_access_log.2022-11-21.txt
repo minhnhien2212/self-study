@@ -1,0 +1,10 @@
+127.0.0.1 - - [21/Nov/2022:10:23:41 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:10:24:08 +0700] "GET /StudentRegistration/index.jsp HTTP/1.1" 200 1778
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:10:26:26 +0700] "GET /StudentRegistration/index.jsp HTTP/1.1" 200 1766
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:10:27:08 +0700] "GET /StudentRegistration/index.jsp HTTP/1.1" 200 1769
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:10:36:43 +0700] "GET /StudentRegistration/index.jsp HTTP/1.1" 200 1769
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:10:36:53 +0700] "GET /StudentRegistration/index.jsp HTTP/1.1" 200 1768
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:10:43:27 +0700] "GET /StudentRegistration/index.jsp HTTP/1.1" 200 2211
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:10:45:29 +0700] "POST /StudentRegistration/index.jsp HTTP/1.1" 200 2211
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:10:45:33 +0700] "POST /StudentRegistration/index.jsp HTTP/1.1" 200 2211
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:13:49:51 +0700] "GET /phpmyadmin HTTP/1.1" 404 761

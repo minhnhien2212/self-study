@@ -1,0 +1,8 @@
+127.0.0.1 - - [24/Nov/2022:11:48:22 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:11:49:22 +0700] "GET /StudentRegistration/index.jsp HTTP/1.1" 500 8017
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:11:49:22 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:11:49:25 +0700] "GET /StudentRegistration/index.jsp HTTP/1.1" 500 8017
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:11:50:52 +0700] "GET /StudentRegistration/index.jsp HTTP/1.1" 200 2592
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:11:51:05 +0700] "POST /StudentRegistration/index.jsp HTTP/1.1" 500 3969
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:11:51:35 +0700] "POST /StudentRegistration/index.jsp HTTP/1.1" 500 3969
+0:0:0:0:0:0:0:1 - - [24/Nov/2022:11:51:43 +0700] "POST /StudentRegistration/index.jsp HTTP/1.1" 500 3969

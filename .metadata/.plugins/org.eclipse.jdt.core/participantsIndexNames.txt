@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\self-study\Tutus Funny\Student Registration 02\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3260105839.index
+\StudentRegistration\src\main\java

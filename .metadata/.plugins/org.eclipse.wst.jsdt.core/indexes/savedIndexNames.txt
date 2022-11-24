@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\self-study\Tutus Funny\Student Registration 02\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+110481804.index
+3551052890.index
+2888421594.index
+1040904122.index
+2320511118.index
+1239697370.index
